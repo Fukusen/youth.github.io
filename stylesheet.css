@@ -1,0 +1,440 @@
+@charset "UTF-8"
+body{
+    font-family: "Avenir Next";
+  }
+  li {
+    list-style: none;
+    float: right;
+    padding: 34px 30px;
+  }
+  .header {
+    background-color: #FFD700;
+    color: #000000;
+    height: 90px;
+  }
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding:20px 40px;
+  }
+  .main {
+    height: 600px;
+  }
+
+  .contents-item-1 img{
+   width:300px;
+   height:300px;
+   padding-top: 791px;
+   padding: right 25px;;
+  }
+  
+  .main h2{
+    text-align:center;
+    font-family: 'YuGothic';
+    font-size: 24px;
+  }
+
+  .main h3{
+    text-align:center;
+    font-family:'YuGothic';
+    font-size: 20px;
+  }
+  .contents-item-2 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-3 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-4 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-5 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-6 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-7 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-8 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-9 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-10 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-11 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-12 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-13 img{
+    width:300px;
+    height:300px;
+   }
+   .contents-item-14 img{
+    width:300px;
+    height:300px;
+   }
+
+
+
+
+
+
+
+
+
+  .contents-item-1 top-contents{
+    font:'YuGothic';
+    font-size:20px;
+    padding-top: 1745px;
+    padding-left: 302px;
+  }
+  
+  .contents-item-1 top-ind{
+    font:'YuGothic';
+    font-size:32px;
+    padding-top:1775px;
+    padding-left: 302px;
+  }
+
+  .contents-item-1 text-contents{
+    font:'YuGothic';
+    font-size:16px;
+    padding-top:897px;
+    padding-left:278px;
+  }
+  .cotents-item-1 profile{
+    font-family:'RobotoCondensed';
+    font-size:20px;
+    padding-top:1050px;
+    padding-right:25px;
+  }
+  .contents-item-2 top-contents{
+    font:'YuGothic';
+    font-size:20px;
+    padding-top:1266px;
+    padding-left:364px;
+  }
+  .contents-item-2 top-ind{
+    font:'YuGothic';
+    font-size:32px;
+    padding-top:1296px;
+    padding-left:364px;
+  }
+  .contents-item-2 text-contents{
+    font:'YuGothic';
+    font-size:16px;
+    padding-top:1397px;
+    padding-left:373px;
+  }
+  .contents-item-2 profile{
+    font:'RobotoCondensed';
+    font-size:20px;
+    padding-top:1527px;
+    padding-left: 25px;
+  }
+  .contents-item-3 top-contents{
+    font:'YuGothic';
+    font-size:20px;
+    padding-top:1720px;
+    padding-left:252px;
+  }
+  .contents-item-3 top-ind{
+    font:'YuGothic';
+    font-size:32px;
+    padding-top:1750px;
+    padding: right 252px;
+  }
+  .contents-item-3 text-contents{
+    font:'YuGothic';
+    font-size:16px;
+    padding-top:1846px;
+    padding-left:277px;
+  }
+  .contents-item-3 profile{
+    font:'YuGothic';
+    font-size:20px;
+    padding-top:2007px;
+    padding-right: 25px;
+  }
+.contents-item-4 top-contents{
+    font:'YuGothic';
+    font-size:20px;
+    padding-top:2233px;
+    padding-left:366px;
+}
+.contents-item-4 top-ind{
+    font:'YuGothic';
+    font-size:32px;
+    padding-top:2263px;
+    padding-left:366px;
+}
+.contents-item-4 text-contents{
+  font:'YuGothic';
+  font-size:16px;
+  padding-top:2346px;
+  padding-left:373px;
+}
+.contents-item-4 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:2506px;
+  padding-left:25px;
+}
+.contents-item-5 top-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:2732px;
+  padding-left:303px;
+}
+.contents-item-5 top-ind{
+  font:'YuGothic';
+  font-size:32px;
+  padding-top:2763px;
+  padding-left:303px;
+}
+.contents-item-5 text-contents{
+  font:'YuGothic';
+  font-size:16px;
+  padding-top:2842px;
+  padding-left:279px;
+}
+.contents-item-5 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:3006px;
+  padding-right:25px;
+}
+.contents-item-6 top-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:3234px;
+  padding-left:350px;
+}
+.contents-item-6 top-ind{
+  font:'YuGothic';
+  font-size:32px;
+  padding-top:3264px;
+  padding-left:350px;
+}
+.contents-item-6 text-contents{
+  font:'YuGothic';
+  font-size:16px;
+  padding-top:3347px;
+  padding-left:374px;
+}
+.contents-item-6 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:3507px;
+  padding-left:25px;
+}
+.contents-item-7 top-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:3745px;
+  padding-left:310px;
+}
+.contents-item-7 top-ind{
+  font:'YuGothic';
+  font-size:32px;
+  padding-top:3775px;
+  padding-left:310;
+}
+.contents-item-7 text-contents{
+  font:'YuGothic';
+  font-size:16px;
+  padding-top:3844px;
+  padding-left:278px;
+}
+.contents-item-7 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:4007px;
+  padding-right:25px;
+}
+.contents-item-8 top-contnents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:4235px;
+  padding-left:366px;
+}
+.contents-item-8 top-ind{
+  font:'YuGothic';
+  font-size:32px;
+  padding-top:4265px;
+  padding-left:366px;
+}
+.contents-item-8 text-contents{
+  font:'YuGothic';
+  font-size:16px;
+  padding-top:4348px;
+  padding-left:374px;
+}
+.contents-item-8 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:4506px;
+  padding-left:25px;
+}
+.contents-item-9 top-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:4736px;
+  padding-left:303px;
+}
+.contents-item-9 top-ind{
+  font:'YuGothic';
+  font-size:32px;
+  padding-top:4766px;
+  padding-left:303px;
+}
+.contents-item-9 text-contents{
+  font:'YuGothic';
+  font-size:16px;
+  padding-top:4845px;
+  padding-left:278px;
+}
+.contents-item-9 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:5008px;
+  padding-right:25px;
+}
+.contents-item-10 top-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:5236px;
+  padding-left:372px;
+}
+.contents-item-10 top-ind{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:5266px;
+  padding-left:372px;
+}
+.contents-item-10 text-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:5349px;
+  padding-left:375px;
+}
+.contents-item-10 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:5509px;
+  padding-left:25px;
+}
+.contents-item-11 top-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:5737px;
+  padding-left:302px;
+}
+.contents-item-11 top-ind{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:5767px;
+  padding-left:302px;
+}
+.contents-item-11 text-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:5846px;
+  padding-left:277px;
+}
+.contents-item-11 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:6009px;
+  padding-right:25px;
+}
+.contents-item-12 top-contets{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:6237px;
+  padding-left:372px;
+}
+.contents-item-12 top-ind{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:6267px;
+  padding-left:372px;
+}
+.contents-item-12 text-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:6350px;
+  padding-left:375px;
+}
+.contents-item-12 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:6507px;
+  padding-left:25px;
+}
+.contents-item-13 top-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:6737px;
+  padding-left:302px;
+}
+.contents-item-13 top-ind{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:6767px;
+  padding-left:302px;
+}
+.contents-item-13 text-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:6846px;
+  padding-left:277px;
+}
+.contents-item-13 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:7009px;
+  padding-right:25px;
+}
+.contents-item-14 top-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:7237px;
+  padding-left:373px;
+}
+.contents-item-14 top-ind{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:7267px;
+  padding-left:373px;
+}
+.contents-item-14 text-contents{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:7350px;
+  padding-left:376px;
+}
+.contents-item-14 profile{
+  font:'YuGothic';
+  font-size:20px;
+  padding-top:7507px;
+  padding-left:25px;
+}
